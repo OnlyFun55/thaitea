@@ -1,0 +1,2 @@
+# thaitea
+tea testnet
